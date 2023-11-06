@@ -10,7 +10,7 @@ public class Tenista {
     private String pais;
     private enum mano_dominante{};
     private enum tipo_reves{};
-    private double ganancias;
+    private Long ganancias;
     LocalDateTime fecha_nacimiento;
 
 }

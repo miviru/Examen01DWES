@@ -17,5 +17,5 @@ java:S1068	"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ8…„‰¬º1
 J
 java:S1068
 "(Remove this unused "pais" private field.(•‡¡øüÿÿÿÿ8…„‰¬º1
-J
-java:S1068"-Remove this unused "ganancias" private field.(üšûÆ8…„‰¬º1
+O
+java:S1068"-Remove this unused "ganancias" private field.(Ä„„Ùÿÿÿÿÿ8…„‰¬º1
